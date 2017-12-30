@@ -39,5 +39,11 @@ for val in hs_split:
 				
 #print(skills)
 
+print tabulate(skills, headers=["Skill", "Rank", "Level", "Experience"])
 
-print tabulate(skills)
+'''
+print("Skill \t\t"+"Rank \t\t"+"Level \t\t"+"Experience")
+print("-----------------------------------------------------------")
+for skill in skills:
+	print(skill)
+'''	
