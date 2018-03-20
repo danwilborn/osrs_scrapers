@@ -1,0 +1,200 @@
+Guide for F2P Regs v1.0.0 
+DRAFT - IN PROGRESS
+By Irish Woof
+
+
+This guide will cover methods best for training (and maxing) a regular F2P account. Many of the methods are credit to Pawz. If you are a F2P ironman or ultimate ironman, this guide is not for you - please instead check out Asura Zoma's excetionally written guide.
+
+Table of Contents
+1. BASICS
+  1.1 Introduction
+  1.2 Clarifications
+  1.3 Money Making
+  1.4 Starting Off/Questing
+2. COMBAT SKILLS
+  2.1 Melee
+  2.2 Range
+  2.3 Magic
+  2.4 Prayer
+3. NON-COMBAT SKILLS
+  3.1 Cooking
+  3.2 Firemaking
+  3.3 Fishing
+  3.4 Woodcutting
+  3.5 Crafting
+  3.6 Mining
+  3.7 Smithing
+  3.8 Runecrafting
+4. MONEY MAKING
+
+1. BASICS
+
+1.1 Introduction
+
+So you want to play as a F2P reg, eh? Well congrats, you chose a pretty awesome account type. Being F2P has its upsides and downsides. The overall gameplay and best methods will rarely change. Content updates for F2P are rare and for those who choose to play pure F2P this is considered a plus. There's something truly iconic and nostalgic about the F2P gameplay. However, if you get bored of content easily or want content updates, maybe you should reconsider being pure F2P. It's not for everyone and you should recognize that before you get going. Also, please note: if you plan on going P2P, do not waste your time in F2P! Everything is more efficient in P2P and there is no point in getting "base stats" before going P2P! For the hours you will spend getting those base stats in F2P, you can quest them in a fraction of the time in P2P. If you have no intention of becoming P2P and would like to partake in the best account type around, continue reading.
+
+
+1.2 Clarifications
+
+Get this straight now: you are going to need money and lots of it. Oftentimes, the most efficient method is going to cost a bit more than other popular methods. Current EHP rates assume "zero time money", meaning it is assumed that money is not an issue for you. Many of the efficient methods I'm going to talk about involve tick-manipulation. The best way to understand tick-manipulation is by watching a video or two and PRACTICING. A written guide can only do so much for you. I will focus on the most efficient methods, but I will also talk briefly about others. In the end, you should choose the methods best for your long-term efficiency. This might mean using less inefficient methods in order to prevent burnout. Remember than Runescape is just a game. 
+
+
+1.3 Alts 
+
+
+1.4 Starting Off/Questing
+
+I won't say too much on questing - F2P questing is fairly straightforward and there are a number of solid guides out there. You can do most, if not all, F2P quests in a single day. If you are trying to be as efficient as possible, I suggest leveraging quest experience rewards as much as possible. I would also suggest getting 37 magic for all teleports before doing too many quests; teleports will save you a great deal of time. If you can afford them, energy pots will also make questing much faster. One efficient way of starting out is to avoid melee training and instead focus on magic until the completion of Dragon Slayer.  
+
+
+
+2. COMBAT SKILLS
+
+2.1 Melee
+	
+Much of your time will go towards training melee stats. Prepare to spend a lot of time (1000+ hours) on melee. 
+
+The fastest possible experience (at all levels) will always be achieved through the use of Clan Wars alts. This requires 2 or more alts each with 1 (or very low) defence and 50+ hitpoints. You can use prayer/strength potions to get fast experience, exiting the portal when you're out of prayer (prayer flicking is even more efficient). Use food on your alts, banking with one while attacking the other. A good choice for food is wines as they are exceptionally cheap and the stat decrease doesn't matter. While this method was at one time the EHP rate (~68k/hr at high levels), that is no longer the case.
+
+If you do not want to use alts:
+
+Starting out it's best just to find a place that is NOT densely populated. If you've completed Vampire Slayer/Dragon Slayer, you should have decent melee stats already. If not, goblins and cows are both decent. A hidden gem is Goblin Village.
+
+After getting 20 base melees I suggest a number of places:
+	- level 28 flesh crawlers 
+	- level 12 minotaurs (not AFK-able)
+	- level 18/24 zombies (wilderness)
+	- level 9 Al Karid Warriors (not AFK-able)
+
+	Do NOT waste your time at crowded places like Hill Giants. Remember that your goal is not to make money while training melee, it's to gain exerpeience as fast as possible. This often means taking a GP loss.
+
+For 30-40 melees, some good options are:
+	- level 35 flesh crawlers
+	- level 18/24 zombies (wilderness)
+
+After base 40 melees, I highly recommend you go to level 41 flesh crawlers, although you can remain at one of the previous places. Level 41 flesh crawlers (south room) will be the best place to train for a long time now. The north room is also great after you raise your defence levels some (50+). If you are in the south fleshies room, you can make them aggressive again by either run all the way to the edge of the southwestern-most room or by first running to the southern doors then running to the northern doors.
+
+After base ~70 melees, level 50 giant spiders become a viable option. These can often give slightly faster experience than flesh crawlers at the price of more food used. The current EHP rates are set to training at giant spiders with strength potions while prayer flicking. At high levels this will be the fastest non-alt experience possible (~45k/hr).
+ 
+NOTE: You can start using strength potions whenever you want, I suggest after 50 strength. A good food choice is apple pies as they heal 14 hp each and will often turn a profit (by selling the empty pie dishes). An efficient banking method is using the mini-game teleport to teleport to Castle Wars and then using the Skull Sceptre to teleport back to the Stronghold of Security. Lastly: power amulet > strength amulet.
+
+For 1 defence pures, you should stay at level 35 flesh crawlers indefinitely. For 40 defence pures, level 41 flesh crawlers are the best - specifically in the southern room as the zombies in that room are a lower level and your food will last longer.
+
+
+2.2 Range
+
+Just like melee, range will take a great deal of time. Also like melee, the fastest possible experience is gained through the use of clan wars alts (using adamant arrows). Clan wars collects your arrows for you and returns them when you exit the portal.If you can do the clan wars method (even if it's just with one alt) that is HIGHLY recommended for starting off. The experience you gain will be much faster than experience gained with any other method.
+
+Otherwise, possible starting places are chickens, seagulls (Port Sarim or Corsair Cove), cows, or goblins. Once again, you'll do best to find a place where you are not competing heavily with others.
+
+At level 20 range, I suggest going to level 12 minotaurs. Use the room just south of the entrance that has a barrier, allowing you to refrain from bringing food. Minotaurs drop iron arrows, meaning after a certain range level (when your DPS is high enough), you will no longer need to buy arrows. This method is going to be significantly slower than using clan wars alts.
+
+At level 30 range, I suggest going to level 28 minotaurs (using the room with another barrier). Same drill as level 12 minotaurs, just higher HP. This is as good a place as any to get 40 range. Other options are:
+	- level 35 flesh crawlers
+	- level 18/24 zombies
+	- level 9 Al Karid Warriors
+
+Note however that these options will all require either a decent defence level or a decent amount of food.
+
+At level 40 range you have more options:
+	- level 42 moss giants (best on Crandor)
+	- level 35 flesh crawlers
+	- level 41 flesh crawlers
+	- level 53 ice giants
+
+The benefit to level 41 flesh crawlers compared to level 35 flesh crawlers is they are less crowded while still being AFK-able. You will need more food. If you choose to do so, you can train indefinitely at level 41 flesh crawlers. This is a easy AFK method that will not use up your food too much. 
+
+At level 70 range and 80 defence you can choose to train at level 50 giant spiders. This will be semi-AFK. The official EHP rate is set at giant spiders WITH prayer flicking. A high defence is required unless you choose to flick protect from melee. The downside to this compared to level 41 flesh crawlers is either (a) the need for more food or (b) the attention required to prayer flick.
+
+Other high level options (using safe spots):
+	- level 81 lesser demons
+	- level 82 ogress warriors
+
+These options are generally brought up due to the potential money-making abilities of each. While they are not bad experience, they are not the best. Particularly if you are going to train at ogresses, you absolutely must used adamant arrows. Even then, you would do better to spend your time elsewhere. 
+
+
+2.3 Magic
+
+In general, as much magic as possible should be trained zero-time. The EHP rates assume that you will train magic with zero-time methods. You can quest 9 magic and from there, getting 21 magic is not difficult. Then you should do zero-time magic training via low-alchs and eventually high-alchs. If you decide to wait to alch until 55 magic, the fastest experience will either be curse splashing (cost-efficient) or falador teleports (expensive).
+
+Activities to alch during are: 
+	- melee/range training (in-between hits, lose no DPS)
+	- during smithing trips (running back to bank)
+	- fishing
+If you only alch after 55 magic, it will take ~198K alchs to reach 99. There are a lot of alch/profit calculators available, make use of them. Rune items often alch for a profit.
+
+You can also use superheat while power mining and drop the bars. Pawz has a good guide on this and can explain it better than I can.
+
+SPLASHING: If you are trying to train efficiently, splashing is absolutely not the way to go. At about 14k/hr, splashing is inefficient, although AFK and cheap. It's a fine way to train if you plan on working on another account simultaneously. Remember you need green vambraces in addition to full armour to get the necessary negative magic bonus.
+
+Staying sane while training magic: it's easy to get overwhelmed by the idea of training magic only through zero-time alching. Most of us are not robots and find the concentration required for these methods to be too much at times. Again, find what methods work for you. Most people will just only alch while bankstanding - and that's fine. Just understand that EHP rates assume zero-time magic experience.
+
+
+2.4 Prayer
+
+Prayer will be one of your largest money sinks. It's inefficient to bury bones from combat. You should absolutely always bury big bones. Keep noted big bones in your inventory and use them on a banker to unnote for max efficiency. The EHP rate assumes you use the noted bones method (~43k/hr)
+
+You will need ~869K big bones for 99 prayer. This will cost 195.5M at 225 gp/big bones and 217.3M at 250 gp/big bones.
+
+
+
+3. NON-COMBAT SKILLS
+
+3.1 Cooking
+
+By far the quickest and easiest skill to train, cooking is good 99 to start off with. For max efficiency, you should cook the best possible food until you can make wines at level 35. 
+    Level 1-5: sardines
+    Level 5-15: herring
+    Level 15-25: trout
+    Level 25-35: salmon
+
+You should then do wines until 99. At level 68 you will have a 100% success rate with wines. This EHP rate is set with wines (480k/hr).
+
+Cooking other foods is not a terrible option and experience can still be quite fast with little to no gp-loss. However, the most efficient method is with wines. If you're cooking rather than making wines, you should light your own fires and bank at the G.E. 
+    
+Non-burn (small gp loss) methods:
+    Level 15-55: trout
+    Level 55-64: salmon
+    Level 64-74: tuna
+    Level 74-86: lobster
+    Level 86-99: swordfish
+
+
+3.2 Firemaking
+
+Firemaking is another fast skill to train. You should burn the best logs possible. The best way to train firemaking is at the G.E. using Pawz's method. Once again, a video of this is much better than me trying to explain it in writing. This is a very click-intensive method and good experience rates can be obtained without it. You should keep your logs noted in your inventory.
+
+Pawz's method: 
+
+The most efficient way to train is with the best possible logs (and EHP assumes using the best possible logs). However, most people will train with maple logs due to their extremely low price. At 7 gp each, you can get 99 firemaking for under 700k gp (logs are 135 xp each). It will take you a little under 100 hours this way.
+
+
+3.3 Fishing
+
+Get level 20 fishing through net/bait fishing. Bait fish as soon as possible.
+
+After this you should fly fish until 99 fishing. The Lumbridge fishing spots are technically better as their spawn points are closer together, although most people fish at Barbarian Village. The fastest experience is gained through 3-tick fishing (best done using snow through either a reindeer hat or a snow globe). This is another method best seen through video, but it's not exceptionally hard to pick up. 
+
+3.4 Woodcutting
+
+3.5 Crafting
+
+3.6 Smithing
+
+3.7 Mining
+
+3.8 Runecrafting
+
+
+
+4. MONEY MAKING
+
+4.1 Abstract
+
+There are a ton of money making guides out there. It is generally recommended that if you plan on maxing as a F2P reg that you make money on P2P alts. Whether or not you think that this is "breaking" pure-F2P, know that the top players use P2P alts and it is difficult, if not impossible, to keep up without them. If you do not want to use P2P alts, your next best alternative is to use F2P merching alts. Having these extra accounts allows you to put in for significantly more offers than you can on a single account. Again, find what's best for you. It isn't a one-size-fits-all model.
+
+4.2 P2P Alts
+
+4.3 F2P Alts
+
+4.4 Other Options
