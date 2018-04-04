@@ -9,7 +9,7 @@ Table of Contents
 1. BASICS
   1.1 Introduction
   1.2 Clarifications
-  1.3 Money Making
+  1.3 Alts
   1.4 Starting Off/Questing
 2. COMBAT SKILLS
   2.1 Melee
@@ -26,20 +26,27 @@ Table of Contents
   3.7 Smithing
   3.8 Runecrafting
 4. MONEY MAKING
+  4.1 Abstract
+  4.2 P2P Alts
+  4.3 F2P Alts
+  4.4 Other Options
+
 
 1. BASICS
 
 1.1 Introduction
 
-So you want to play as a F2P reg, eh? Well congrats, you chose a pretty awesome account type. Being F2P has its upsides and downsides. The overall gameplay and best methods will rarely change. Content updates for F2P are rare and for those who choose to play pure F2P this is considered a plus. There's something truly iconic and nostalgic about the F2P gameplay. However, if you get bored of content easily or want content updates, maybe you should reconsider being pure F2P. It's not for everyone and you should recognize that before you get going. Also, please note: if you plan on going P2P, do not waste your time in F2P! Everything is more efficient in P2P and there is no point in getting "base stats" before going P2P! For the hours you will spend getting those base stats in F2P, you can quest them in a fraction of the time in P2P. If you have no intention of becoming P2P and would like to partake in the best account type around, continue reading.
+So you want to play as a F2P reg? Well congrats, you chose a pretty awesome account type. Being F2P has its upsides and downsides. The overall gameplay and best methods will rarely change. Content updates for F2P are rare and for those who choose to play pure F2P this is considered a plus. There's something truly iconic and nostalgic about the F2P gameplay. However, if you get bored of content easily or want content updates, maybe you should reconsider being pure F2P. It's not for everyone and you should recognize that before you get going. Also, please note: if you plan on going P2P, do not waste your time in F2P! Everything is more efficient in P2P and there is no point in getting "base stats" before going P2P! For the hours you will spend getting those base stats in F2P, you can quest them in a fraction of the time in P2P. If you have no intention of becoming P2P and would like to partake in the best account type around, continue reading.
 
 
 1.2 Clarifications
 
-Get this straight now: you are going to need money and lots of it. Oftentimes, the most efficient method is going to cost a bit more than other popular methods. Current EHP rates assume "zero time money", meaning it is assumed that money is not an issue for you. Many of the efficient methods I'm going to talk about involve tick-manipulation. The best way to understand tick-manipulation is by watching a video or two and PRACTICING. A written guide can only do so much for you. I will focus on the most efficient methods, but I will also talk briefly about others. In the end, you should choose the methods best for your long-term efficiency. This might mean using less inefficient methods in order to prevent burnout. Remember than Runescape is just a game. 
+Get this straight now: you are going to need money and lots of it. Oftentimes, the most efficient method is going to cost a bit more than other popular methods. Current EHP rates assume "zero time money", meaning it is assumed that money is not an issue for you. Many of the efficient methods I'm going to talk about also involve tick-manipulation. Tick-manipulation takes advantage of the Runescape engine in which a "tick" is 0.6 seconds. The goal of tick-manipulation is to bypass the tick requirement for receiving experience in certain skills. The best way to understand tick-manipulation is by watching a video or two and PRACTICING. A written guide can only do so much for you so I will not be going into depth about these methods. I will focus on the most efficient methods, but I will also talk briefly about others. In the end, you should choose the methods best for your long-term efficiency. This might mean using less inefficient methods in order to prevent burnout. Remember than Runescape is just a game. 
 
 
 1.3 Alts 
+
+Most of the absolute most efficient methods require the use of alternate accounts or "alts". The best money making methods are in P2P and the need for a lot of money means that using P2P alts to generate needed cash will take much less time. While EHP now assumes no use of alts, certain skills (melee, runecrafting) will have significantly faster experience methods with the use of alts. It's fine if you choose not to use alts, but know that there are faster methods out there. 
 
 
 1.4 Starting Off/Questing
@@ -110,18 +117,19 @@ Other high level options (using safe spots):
 	- level 81 lesser demons
 	- level 82 ogress warriors
 
-These options are generally brought up due to the potential money-making abilities of each. While they are not bad experience, they are not the best. Particularly if you are going to train at ogresses, you absolutely must used adamant arrows. Even then, you would do better to spend your time elsewhere. 
-
+These options are generally brought up due to the potential money-making abilities of each. While they are not bad experience, they are not the best. Particularly if you are going to train at ogresses, you absolutely must used adamant arrows. Even then, you would do better to spend your time elsewhere. A slightly more demanding method at ogresses is to have a splash alt "reserve" one ogress for you while you kill the other. This will help get rid of any competition from other players while also increasing your experience per hour.
 
 2.3 Magic
 
 In general, as much magic as possible should be trained zero-time. The EHP rates assume that you will train magic with zero-time methods. You can quest 9 magic and from there, getting 21 magic is not difficult. Then you should do zero-time magic training via low-alchs and eventually high-alchs. If you decide to wait to alch until 55 magic, the fastest experience will either be curse splashing (cost-efficient) or falador teleports (expensive).
 
-Activities to alch during are: 
+Some good ativities to alch during are: 
 	- melee/range training (in-between hits, lose no DPS)
 	- during smithing trips (running back to bank)
 	- fishing
 If you only alch after 55 magic, it will take ~198K alchs to reach 99. There are a lot of alch/profit calculators available, make use of them. Rune items often alch for a profit.
+
+Curse splashing can be a cheap and fast method to train magic, particularly when combined with alching. If you're looking to gain the fastest possible xp/hr, curse alching is the best method. Note that there is little place for training using combat spells (strike/bolt/blast). They are a fine alternative to get to 55 magic, but shouldn't be used afterwards.
 
 You can also use superheat while power mining and drop the bars. Pawz has a good guide on this and can explain it better than I can.
 
@@ -132,7 +140,7 @@ Staying sane while training magic: it's easy to get overwhelmed by the idea of t
 
 2.4 Prayer
 
-Prayer will be one of your largest money sinks. It's inefficient to bury bones from combat. You should absolutely always bury big bones. Keep noted big bones in your inventory and use them on a banker to unnote for max efficiency. The EHP rate assumes you use the noted bones method (~43k/hr)
+Prayer will be one of your largest money sinks. It's inefficient to bury bones from combat, but rather always buy your bones. You should absolutely always buy and bury big bones. Keep noted big bones in your inventory and use them on a banker to unnote for max efficiency. The EHP rate assumes you use the noted bones method (~43k/hr)
 
 You will need ~869K big bones for 99 prayer. This will cost 195.5M at 225 gp/big bones and 217.3M at 250 gp/big bones.
 
@@ -148,7 +156,7 @@ By far the quickest and easiest skill to train, cooking is good 99 to start off 
     Level 15-25: trout
     Level 25-35: salmon
 
-You should then do wines until 99. At level 68 you will have a 100% success rate with wines. This EHP rate is set with wines (480k/hr).
+You should then do wines until 99. At level 68 you will have a 100% success rate with wines. This EHP rate is set with wines (480k/hr). From level 68 you will need ~62.2k wines for 99. 
 
 Cooking other foods is not a terrible option and experience can still be quite fast with little to no gp-loss. However, the most efficient method is with wines. If you're cooking rather than making wines, you should light your own fires and bank at the G.E. 
     
@@ -162,9 +170,7 @@ Non-burn (small gp loss) methods:
 
 3.2 Firemaking
 
-Firemaking is another fast skill to train. You should burn the best logs possible. The best way to train firemaking is at the G.E. using Pawz's method. Once again, a video of this is much better than me trying to explain it in writing. This is a very click-intensive method and good experience rates can be obtained without it. You should keep your logs noted in your inventory.
-
-Pawz's method: 
+Firemaking is another fast skill to train. You should burn the best logs possible. The best way to train firemaking is at the G.E. using Pawz's method. Once again, a video of this is much better than me trying to explain it in writing. This is a very click-intensive method and good experience rates can be obtained without it. You should keep your logs noted in your inventory. 
 
 The most efficient way to train is with the best possible logs (and EHP assumes using the best possible logs). However, most people will train with maple logs due to their extremely low price. At 7 gp each, you can get 99 firemaking for under 700k gp (logs are 135 xp each). It will take you a little under 100 hours this way.
 
@@ -173,18 +179,107 @@ The most efficient way to train is with the best possible logs (and EHP assumes 
 
 Get level 20 fishing through net/bait fishing. Bait fish as soon as possible.
 
-After this you should fly fish until 99 fishing. The Lumbridge fishing spots are technically better as their spawn points are closer together, although most people fish at Barbarian Village. The fastest experience is gained through 3-tick fishing (best done using snow through either a reindeer hat or a snow globe). This is another method best seen through video, but it's not exceptionally hard to pick up. 
+After this you should fly fish until 99 fishing. The Lumbridge fishing spots are technically better as their spawn points are closer together, although most people fish at Barbarian Village. The fastest experience is gained through 3-tick fishing (best done using snow through either a reindeer hat or a snow globe). This is another method best seen through video, but it's not exceptionally hard to pick up. You should click the fishing spot, then your pile of snow, and then the fishing spot again.
+
+You can also AFK fly fish for decent xp/hr. However, you should ALWAYS drop your fish. To do otherwise is inefficient. You should not cook them at Barbarian Village. Cooking experience can be gained much faster in other ways.
+
 
 3.4 Woodcutting
 
+Always use the best axe possible.
+
+Levels 1-15 are done with normal trees. Good spots for this are behind Lumbridge Castle and by the Grand Exchange.
+Levels 15-30 are done with oak trees. It will be faster experience to drop your logs rather than bank them. Trees near banks will generally be flooded by bots, so avoid those.
+
+Note: it can be beneficial to wait until 41 woodcutting (and a rune axe) to start cutting willow trees.
+
+Levels 30-99 should be done with willow trees. Do not waste your time with maples or yews, both are slower experience and therefore inefficient. The best spots for willow trees are Rimmington and northwest of the Crafting Guild. You should never bank your logs. Willows provide almost no profit and spots near banks are often crowded. If you do not want to bank your logs, instead selling them to a general store is an alternative (much slower) option.
+
+For max efficiency, you should 3-tick willow trees. There are a number of video guides available that explain this very well. 
+
 3.5 Crafting
+
+Crafting done efficiently is very expensive.
+Efficient method:
+    Levels 1-20: create best possible leather item
+    Levels 20-27: cut sapphires
+    Levels 27-34: cut emeralds
+    Levels 34-43: cut rubies
+    Levels 43-99: cut diamonds
+
+Cutting diamonds you can reach ~290k xp/hr.
+
+Cost to 99:
+    Diamonds from 43: ~121K diamonds @ 1.2K loss per diamond = 145.2M
+    Rubies from 43: ~153K rubies @ 500 gp loss per ruby = 76.5M
+    Emeralds from 27: ~193K emeralds @ 300 gp loss per emerald = 57.9M
+    Sapphires from 20: ~261K sapphires @ 200 gp loss per sapphire = 52.2M
+
+The EHP rate assumes that the player cutting the best possible gem. However, there are crafting methods that are much less costly, sometimes even turning a profit.
+
+Cost efficient:
+    Levels 1-5: leather items
+    Levels 5-8: gold rings/necklaces
+    Levels 8-on: gold amulets, etc.
+
+Gold amulets will always turn a solid profit and get ~30k xp/hr. Other various jewelrey can be made for a profit, but other jewelry is less consistent. It would be good to check often which jewelry makes a profit at the time. At level 70, diamond amulets will almost always make a profit and profide significantly better xp/hr than gold amulets. 
+
 
 3.6 Smithing
 
+You should always start smithing by doing the Knight's Sword quest, getting you from 1-29 smithing.
+
+If you're looking to train smithing in the most efficient way possible, you should superheat your iron while mining it, doing this all the way to 99 mining. From there you should make the best platebody possible. Always smith at Varrock West.
+
+If you decide not to superheat, you should go ahead and still make the best platebody possible. This will get expensive.
+
+    Levels 29-33: bronze platebodies
+    Levels 33-48: iron platebodies
+    Levels 48-68: steel platebodies
+    Levels 68-88: mithril platebodies
+    Levels 88-98: adamant platebodies
+
+    Making adamant platebodies will get you ~200k xp/hr.
+
+At level 98 you can choose to use Dwarven Stout to increase your smithing level and make rune 2H's, rune plateskirts, or rune platelegs. These items generally make a decent profit and are very fast xp/hr. 
+
+Especially when smithing platebodies, it is very efficient to alch the platebodies you just made when running from the anvil to the bank.
+
+Steel nails (possible to make at level 34) can be a cost-saving alternative to making platebodies. While the method will cost much less, the xp/hr is only ~35k/hr.
+
+
 3.7 Mining
+
+You can get some quick mining levels by completing Doric's Quest (takes under a minute with the materials).
+
+At level 15 you should start mining iron and keep mining iron to level 99. Iron will always provide the fastest experience possible and you should drop your ores for the fastest experience.
+
+Places to mine iron:
+    - Al Kharid mine
+    - Rimmington mine
+    - Hobgoblin mine (recommended)
+    - Mining guild (level 60 required)
+
+If you don't like clicking as much and do not want to have to drop full inventories of ore, mining at the four iron rock spot in the mining guild and then selling to the nearby shop is a feasible alternative. This method is slightly lower xp/hr, but less click-intensive.
+
 
 3.8 Runecrafting
 
+Runecrafting is a slow and painful skill in F2P. It can also become quite costly.
+
+There is no level requirement for making tiaras, so you should begin making them immediately. The current EHP rate is set making earth tiaras while using energy potions for 26k xp/hr. Higher xp/hr can be gained through the use of alts, each with a varrock teleport (~40k xp/hr with 3 teleport alts).
+
+Another option is to make body tiaras. This is even more expensive and in order to make use of a teleport you must have a large supply of skull sceptre pieces. If you have trained combat levels at flesh crawlers this should not be too much of an issue.
+
+Making fire tiaras is extremely expensive and not recommended.
+
+Tiaras generally cost ~50 gp each, so that is added to the cost of each talisman.
+
+Cost to 99:
+    Earth tiaras: ~401K tiaras @ 250 ea = 100.25M
+    Body tiaras: ~348K tiaras @ 500 ea = 174M
+
+Using ~1 energy potion per inventory for each method (likely to actually be higher), you will need ~25K energy potions. At 500 gp per energy potion, this is another 12.5M, which while costly, is a drop in the bucket when compared with the overall cost and the time saved.
 
 
 4. MONEY MAKING
@@ -195,6 +290,12 @@ There are a ton of money making guides out there. It is generally recommended th
 
 4.2 P2P Alts
 
+This isn't a money making guide for P2P, so I won't go into much detail here. Runecrafting is a pain, but a great way to make money. Runecrafting nature runes will be one of your best ways to make money via an alt. There are a number of things you can also do to make consistent money every day that take little to no effort. Buying battlestaves is one way. Another is to build up your Nightmare Zone points and then buy 15 herb boxes each day. P2P also has 8 G.E. slots rather than 3, making merching quite a bit easier.
+
 4.3 F2P Alts
 
+There aren't too many easy ways to make money in F2P. However, once you have a decent amount of cash built up it's easy to merch on F2P alts, only having to check the account once a day (maybe twice if you're merching something volatile). F2P accounts are easy to maintain, so it's feasible to have a large number of accounts to merch on (5-10 or even more). This will allow you to buy more of one thing at a time as most items have a very reachable buy limit. If you're looking to AFK a task while making money, yews are an option, but a bad one. Crafting can be a good AFK option. While it varies, things like gold amulets will almost always make a profit. 
+
 4.4 Other Options
+
+This shouldn't have to be said, but you should always be merching something on your account. Money sitting in the bank is wasted money. There aren't many fast ways to make cash in F2P, so you need to be smart with what you have. If you can reach level 99 smithing (98 if you use Dwarven Stout), making various rune items such as plateskirts, platelegs, and 2H's will make a profit. This will be some of the quickest possible money making in F2P. If you can do this on a F2P alt that's even better. 
